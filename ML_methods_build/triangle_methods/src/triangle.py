@@ -17,10 +17,6 @@
 
 
 import matplotlib.pyplot as plt
-# import numpy as np
-# import random
-
-
 
 
 
@@ -216,4 +212,4 @@ C = Point(0, 0)
 my_triangle = Triangle(A, B, C)
 # my_triangle.triangle_show()
 result = is_conditions_met(my_triangle)
-print(result)
+# print(result)
